@@ -7974,6 +7974,7 @@
 				"flows": {
 					"clientCredentials": {
 						"tokenUrl": "https://access.bosch-iot-suit.com/v2/token",
+						"authorizationUrl": "https://access.bosch-iot-suit.com/v2/token",
 						"scopes": {
 							"offline": "Offline Refresh Tokens",
 							"openid": "OpenID"
