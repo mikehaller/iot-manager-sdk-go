@@ -1,4 +1,4 @@
-module github.com/mikehaller/iot-manager-sdk-go
+module github.com/GIT_USER_ID/GIT_REPO_ID
 
 require (
 	github.com/antihax/optional v1.0.0

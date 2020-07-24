@@ -20,6 +20,7 @@ servers:
 security:
 - bearerAuth: []
 - refreshToken: []
+- SuiteAuth: []
 paths:
   /mme/rules:
     get:
@@ -7672,3 +7673,13 @@ components:
       in: header
       name: x-refresh-token
       type: apiKey
+    SuiteAuth:
+      description: Refresh token issued by the Bosch IoT Suite OAuth 2.0 Authorization
+        Server.
+      flows:
+        clientCredentials:
+          scopes:
+            offline: Offline Refresh Tokens
+            openid: OpenID
+          tokenUrl: https://access.bosch-iot-suit.com/v2/token
+      type: oauth2

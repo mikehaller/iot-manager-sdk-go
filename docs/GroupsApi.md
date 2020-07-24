@@ -57,7 +57,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[bearerAuth](../README.md#bearerAuth), [refreshToken](../README.md#refreshToken)
+[SuiteAuth](../README.md#SuiteAuth), [bearerAuth](../README.md#bearerAuth), [refreshToken](../README.md#refreshToken)
 
 ### HTTP request headers
 
@@ -102,7 +102,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[bearerAuth](../README.md#bearerAuth), [refreshToken](../README.md#refreshToken)
+[SuiteAuth](../README.md#SuiteAuth), [bearerAuth](../README.md#bearerAuth), [refreshToken](../README.md#refreshToken)
 
 ### HTTP request headers
 
@@ -145,7 +145,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[bearerAuth](../README.md#bearerAuth), [refreshToken](../README.md#refreshToken)
+[SuiteAuth](../README.md#SuiteAuth), [bearerAuth](../README.md#bearerAuth), [refreshToken](../README.md#refreshToken)
 
 ### HTTP request headers
 
@@ -188,7 +188,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[bearerAuth](../README.md#bearerAuth), [refreshToken](../README.md#refreshToken)
+[SuiteAuth](../README.md#SuiteAuth), [bearerAuth](../README.md#bearerAuth), [refreshToken](../README.md#refreshToken)
 
 ### HTTP request headers
 
@@ -233,7 +233,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[bearerAuth](../README.md#bearerAuth), [refreshToken](../README.md#refreshToken)
+[SuiteAuth](../README.md#SuiteAuth), [bearerAuth](../README.md#bearerAuth), [refreshToken](../README.md#refreshToken)
 
 ### HTTP request headers
 
@@ -268,7 +268,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[bearerAuth](../README.md#bearerAuth), [refreshToken](../README.md#refreshToken)
+[SuiteAuth](../README.md#SuiteAuth), [bearerAuth](../README.md#bearerAuth), [refreshToken](../README.md#refreshToken)
 
 ### HTTP request headers
 
@@ -302,7 +302,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[bearerAuth](../README.md#bearerAuth), [refreshToken](../README.md#refreshToken)
+[SuiteAuth](../README.md#SuiteAuth), [bearerAuth](../README.md#bearerAuth), [refreshToken](../README.md#refreshToken)
 
 ### HTTP request headers
 
@@ -347,7 +347,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[bearerAuth](../README.md#bearerAuth), [refreshToken](../README.md#refreshToken)
+[SuiteAuth](../README.md#SuiteAuth), [bearerAuth](../README.md#bearerAuth), [refreshToken](../README.md#refreshToken)
 
 ### HTTP request headers
 
@@ -381,7 +381,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[bearerAuth](../README.md#bearerAuth), [refreshToken](../README.md#refreshToken)
+[SuiteAuth](../README.md#SuiteAuth), [bearerAuth](../README.md#bearerAuth), [refreshToken](../README.md#refreshToken)
 
 ### HTTP request headers
 
@@ -416,7 +416,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[bearerAuth](../README.md#bearerAuth), [refreshToken](../README.md#refreshToken)
+[SuiteAuth](../README.md#SuiteAuth), [bearerAuth](../README.md#bearerAuth), [refreshToken](../README.md#refreshToken)
 
 ### HTTP request headers
 
@@ -450,7 +450,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[bearerAuth](../README.md#bearerAuth), [refreshToken](../README.md#refreshToken)
+[SuiteAuth](../README.md#SuiteAuth), [bearerAuth](../README.md#bearerAuth), [refreshToken](../README.md#refreshToken)
 
 ### HTTP request headers
 
@@ -494,7 +494,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[bearerAuth](../README.md#bearerAuth), [refreshToken](../README.md#refreshToken)
+[SuiteAuth](../README.md#SuiteAuth), [bearerAuth](../README.md#bearerAuth), [refreshToken](../README.md#refreshToken)
 
 ### HTTP request headers
 
@@ -528,7 +528,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[bearerAuth](../README.md#bearerAuth), [refreshToken](../README.md#refreshToken)
+[SuiteAuth](../README.md#SuiteAuth), [bearerAuth](../README.md#bearerAuth), [refreshToken](../README.md#refreshToken)
 
 ### HTTP request headers
 
@@ -578,7 +578,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[bearerAuth](../README.md#bearerAuth), [refreshToken](../README.md#refreshToken)
+[SuiteAuth](../README.md#SuiteAuth), [bearerAuth](../README.md#bearerAuth), [refreshToken](../README.md#refreshToken)
 
 ### HTTP request headers
 
@@ -612,7 +612,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[bearerAuth](../README.md#bearerAuth), [refreshToken](../README.md#refreshToken)
+[SuiteAuth](../README.md#SuiteAuth), [bearerAuth](../README.md#bearerAuth), [refreshToken](../README.md#refreshToken)
 
 ### HTTP request headers
 
@@ -646,7 +646,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[bearerAuth](../README.md#bearerAuth), [refreshToken](../README.md#refreshToken)
+[SuiteAuth](../README.md#SuiteAuth), [bearerAuth](../README.md#bearerAuth), [refreshToken](../README.md#refreshToken)
 
 ### HTTP request headers
 
@@ -695,7 +695,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[bearerAuth](../README.md#bearerAuth), [refreshToken](../README.md#refreshToken)
+[SuiteAuth](../README.md#SuiteAuth), [bearerAuth](../README.md#bearerAuth), [refreshToken](../README.md#refreshToken)
 
 ### HTTP request headers
 
@@ -730,7 +730,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[bearerAuth](../README.md#bearerAuth), [refreshToken](../README.md#refreshToken)
+[SuiteAuth](../README.md#SuiteAuth), [bearerAuth](../README.md#bearerAuth), [refreshToken](../README.md#refreshToken)
 
 ### HTTP request headers
 
@@ -765,7 +765,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[bearerAuth](../README.md#bearerAuth), [refreshToken](../README.md#refreshToken)
+[SuiteAuth](../README.md#SuiteAuth), [bearerAuth](../README.md#bearerAuth), [refreshToken](../README.md#refreshToken)
 
 ### HTTP request headers
 
@@ -799,7 +799,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[bearerAuth](../README.md#bearerAuth), [refreshToken](../README.md#refreshToken)
+[SuiteAuth](../README.md#SuiteAuth), [bearerAuth](../README.md#bearerAuth), [refreshToken](../README.md#refreshToken)
 
 ### HTTP request headers
 
@@ -829,7 +829,7 @@ This endpoint does not need any parameter.
 
 ### Authorization
 
-[bearerAuth](../README.md#bearerAuth), [refreshToken](../README.md#refreshToken)
+[SuiteAuth](../README.md#SuiteAuth), [bearerAuth](../README.md#bearerAuth), [refreshToken](../README.md#refreshToken)
 
 ### HTTP request headers
 
@@ -874,7 +874,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[bearerAuth](../README.md#bearerAuth), [refreshToken](../README.md#refreshToken)
+[SuiteAuth](../README.md#SuiteAuth), [bearerAuth](../README.md#bearerAuth), [refreshToken](../README.md#refreshToken)
 
 ### HTTP request headers
 
@@ -919,7 +919,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[bearerAuth](../README.md#bearerAuth), [refreshToken](../README.md#refreshToken)
+[SuiteAuth](../README.md#SuiteAuth), [bearerAuth](../README.md#bearerAuth), [refreshToken](../README.md#refreshToken)
 
 ### HTTP request headers
 
@@ -953,7 +953,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[bearerAuth](../README.md#bearerAuth), [refreshToken](../README.md#refreshToken)
+[SuiteAuth](../README.md#SuiteAuth), [bearerAuth](../README.md#bearerAuth), [refreshToken](../README.md#refreshToken)
 
 ### HTTP request headers
 
@@ -988,7 +988,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[bearerAuth](../README.md#bearerAuth), [refreshToken](../README.md#refreshToken)
+[SuiteAuth](../README.md#SuiteAuth), [bearerAuth](../README.md#bearerAuth), [refreshToken](../README.md#refreshToken)
 
 ### HTTP request headers
 
@@ -1035,7 +1035,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[bearerAuth](../README.md#bearerAuth), [refreshToken](../README.md#refreshToken)
+[SuiteAuth](../README.md#SuiteAuth), [bearerAuth](../README.md#bearerAuth), [refreshToken](../README.md#refreshToken)
 
 ### HTTP request headers
 
@@ -1079,7 +1079,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[bearerAuth](../README.md#bearerAuth), [refreshToken](../README.md#refreshToken)
+[SuiteAuth](../README.md#SuiteAuth), [bearerAuth](../README.md#bearerAuth), [refreshToken](../README.md#refreshToken)
 
 ### HTTP request headers
 

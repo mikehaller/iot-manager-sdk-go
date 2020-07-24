@@ -12,6 +12,8 @@
     "bearerAuth" : [ ]
   }, {
     "refreshToken" : [ ]
+  }, {
+    "SuiteAuth" : [ ]
   } ],
   "paths" : {
     "/mme/rules" : {
@@ -7965,6 +7967,19 @@
         "description" : "Refresh token issued by a supported OAuth 2.0 Identity Provider.",
         "name" : "x-refresh-token",
         "in" : "header"
+      },
+			"SuiteAuth": {
+				"type": "oauth2",
+				"description": "Refresh token issued by the Bosch IoT Suite OAuth 2.0 Authorization Server.",
+				"flows": {
+					"clientCredentials": {
+						"tokenUrl": "https://access.bosch-iot-suit.com/v2/token",
+						"scopes": {
+							"offline": "Offline Refresh Tokens",
+							"openid": "OpenID"
+						}
+					}
+				}	    
       }
     }
   }
